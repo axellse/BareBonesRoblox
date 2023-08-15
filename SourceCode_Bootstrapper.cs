@@ -17,7 +17,7 @@ namespace urlprotocoltest
         static void Main(string[] args)
         {
             //BareBonesRoblox, Written By Axell
-            //www.axell.me
+            //https://axell.me
 
 
             string channel = "LIVE"; // Channel if allowcustomchannel is false
